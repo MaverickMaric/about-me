@@ -1,2 +1,2 @@
 # about-me
-Test text
+Self-description
